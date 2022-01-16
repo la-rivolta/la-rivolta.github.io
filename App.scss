@@ -1,0 +1,21 @@
+.cardContainer{
+  margin-top: 25px;
+  display: flex;
+}
+
+h1{
+  text-align: center;
+  font-size: 25px;
+}
+
+button, button:focus, button:active{
+  color: black;
+  border: 0;
+  background: none;
+  border-bottom: 1px solid #0fd;
+  width: 250px;
+  text-align: left;
+  outline: none;
+  margin: 0 auto;
+  display: block;
+}
